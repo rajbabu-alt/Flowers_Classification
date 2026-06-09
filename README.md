@@ -71,3 +71,8 @@ Removed the extra normalization step from `app.py`, which fixed the predictions 
 ### Prediction Example
 
 ![Prediction](images/prediction.png)
+
+## Live Demo
+
+Try the application here:
+https://huggingface.co/spaces/Babu06/flower_classifier
